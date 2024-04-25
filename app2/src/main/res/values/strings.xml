@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="connect_to_server">Connect to server</string>
+    <string name="message_from_client">Message from Client</string>
+    <string name="send_message_to_server">Send Message</string>
+    <string name="empty_message">&lt;Empty Message&gt;</string>
+    <string name="text_view_format">%1$s [%2$s]</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Ip_server">ip Server</string>
+    <string name="name">Name</string>
+    <string name="ip_server">ip Server</string>
+    <string name="login">Login</string>
+</resources>
